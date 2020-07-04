@@ -1,2 +1,2 @@
 # Hadoop Commom Commands
-1. Create directory for db and tables with hadoop commands [Link](). 
+1. Create directory for db and tables with hadoop commands [Link](https://github.com/Bryan-Developer/Data-Engineer-Briefcase/tree/development/Hadoop-Knowledge/create-structure). 
