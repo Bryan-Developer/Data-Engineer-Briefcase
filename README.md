@@ -5,4 +5,3 @@
  * [Spark-Knowledge](./Data-Engineer-Briefcase/Spark-Knowledge)
  * [Hadoop-Knowledge](./Data-Engineer-Briefcase/Hadoop-Knowledge)
      * [create-structure](./Data-Engineer-Briefcase/Hadoop-Knowledge/create-structure)
-         * [algo.md](./Data-Engineer-Briefcase/Hadoop-Knowledge/create-structure/algo.md)
